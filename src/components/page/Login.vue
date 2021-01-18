@@ -50,7 +50,7 @@ export default {
     data: function() {
         return {
             param: {
-                username: 'huangzhenzong',
+                username: 'admin',
                 password: '123123',
             },
             rules: {

@@ -185,8 +185,8 @@ export default {
             data1: [
                 {
                     id: 1,
-                    userName: '黄振宗',
-                    email: '1296532122@qq.com',
+                    userName: 'admin',
+                    email: '12121212121121@qq.com',
                     userGroup: 'AD妈妈',
                     department: '前端程序员',
                     assignName: '暂无',
